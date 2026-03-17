@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:juno="urn:microsoft:content:juno:1.0">
+  <file datatype="xml" original="html" source-language="en-US" target-language="de-DE">
+    
+    <body>
+      <group id="p1">
+        <group id="s1">
+          <trans-unit id="2" translate="yes" source-term="Azure Virtual Machines">
+            <source>This article contains important reference material you need when you
+                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition</source>
+            <target state="final">This article contains important reference material you need when you
+                            monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition</target>
+          </trans-unit>
+        </group>
+      </group>
+      <group id="p2">
+        <group id="s2">
+          <trans-unit id="4" translate="yes" source-term="Azure Virtual Machines">
+            <source>Azure Virtual Machines monitoring data reference</source>
+            <target state="final">Azure Virtual Machines monitoring data reference</target>
+          </trans-unit>
+        </group>
+      </group>
+      <group id="p3">
+        <group id="s3">
+          <trans-unit id="6" translate="yes" source-term="Azure Virtual Machines">
+            <source>Monitoring data reference for Azure Virtual Machines</source>
+            <target state="final">Monitoring data reference for Azure Virtual Machines</target>
+          </trans-unit>
+        </group>
+      </group>
+      <group id="p4">
+        <group id="s4">
+          <trans-unit id="8" translate="yes">
+            <source>This article contains all the monitoring reference information for
+                            this service.</source>
+            <target state="final">This article contains all the monitoring reference information for
+                            this service.</target>
+          </trans-unit>
+        </group>
+      </group>
+      <group id="p5">
+        <group id="s5">
+          <trans-unit id="10" translate="yes" source-term="Azure Virtual Machines">
+            <source>See <bpt id="1">&lt;a href="monitor-vm"
+                            data-linktype="relative-path"&gt;</bpt>Monitor Azure Virtual Machines<ept id="1">&lt;/a&gt;</ept> for details on the data you can collect for
+                            Azure Virtual Machines and how to use it.</source>
+            <target state="final">See &lt;a href="monitor-vm"
+                            data-linktype="relative-path"&gt;Monitor Azure Virtual Machines&lt;/a&gt; for details on the data you can collect for
+                            Azure Virtual Machines and how to use it.</target>
+          </trans-unit>
+        </group>
+      </group>
+    </body>
+  </file>
+</xliff>
