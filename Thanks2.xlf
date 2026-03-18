@@ -5,7 +5,7 @@
         <body>
             <group id="p1">
                 <trans-unit id="1" translate="no">
-                    <source>This article 2 contains important reference material you need when you
+                    <source>This article 3 contains important reference material you need when you
                         monitor Azure Virtual Machines. This is added. This is added too. This is added as well. This has also been added. This is another addition. New addition</source>
                 </trans-unit>
                 <group id="s1">
